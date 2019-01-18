@@ -36,7 +36,7 @@ char auth[] = "d310bf73798f46808b8ddb99eb925b34";
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "Nigga Go Get Your Own WiFi";
-char pass[] = "a1f2a3f4a5";
+char pass[] = "**************";
 float voltage;
 float current;
 float kwh;
